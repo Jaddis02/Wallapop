@@ -1,0 +1,77 @@
+CRITICAL - 2024-01-15 08:41:08 --> Undefined variable $nombre
+in APPPATH\Views\templates\header.php on line 13.
+ 1 APPPATH\Views\templates\header.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nombre', 'C:\\xampp\\htdocs\\DWES\\ci_prubea_bd\\app\\Views\\templates\\header.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\DWES\\ci_prubea_bd\\app\\Views\\templates\\header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('templates/header', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(9): view('templates/header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->registro()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-15 08:41:12 --> Undefined variable $nombre
+in APPPATH\Views\templates\header.php on line 13.
+ 1 APPPATH\Views\templates\header.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nombre', 'C:\\xampp\\htdocs\\DWES\\ci_prubea_bd\\app\\Views\\templates\\header.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\DWES\\ci_prubea_bd\\app\\Views\\templates\\header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('templates/header', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(9): view('templates/header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->registro()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-15 08:41:26 --> Undefined variable $nombre
+in APPPATH\Views\templates\header.php on line 13.
+ 1 APPPATH\Views\templates\header.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nombre', 'C:\\xampp\\htdocs\\DWES\\ci_prubea_bd\\app\\Views\\templates\\header.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\DWES\\ci_prubea_bd\\app\\Views\\templates\\header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('templates/header', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(9): view('templates/header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->registro()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-15 08:41:29 --> Undefined variable $nombre
+in APPPATH\Views\templates\header.php on line 13.
+ 1 APPPATH\Views\templates\header.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nombre', 'C:\\xampp\\htdocs\\DWES\\ci_prubea_bd\\app\\Views\\templates\\header.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\DWES\\ci_prubea_bd\\app\\Views\\templates\\header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('templates/header', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(9): view('templates/header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->registro()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-15 08:42:42 --> Undefined variable $nombre
+in APPPATH\Views\templates\header.php on line 13.
+ 1 APPPATH\Views\templates\header.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nombre', 'C:\\xampp\\htdocs\\DWES\\ci_prubea_bd\\app\\Views\\templates\\header.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\DWES\\ci_prubea_bd\\app\\Views\\templates\\header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('templates/header', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(9): view('templates/header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->registro()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-15 08:43:01 --> Undefined variable $nombre
+in APPPATH\Views\templates\header.php on line 13.
+ 1 APPPATH\Views\templates\header.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nombre', 'C:\\xampp\\htdocs\\DWES\\ci_prubea_bd\\app\\Views\\templates\\header.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\DWES\\ci_prubea_bd\\app\\Views\\templates\\header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('templates/header', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(9): view('templates/header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->registro()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-15 08:43:02 --> Undefined variable $nombre
+in APPPATH\Views\templates\header.php on line 13.
+ 1 APPPATH\Views\templates\header.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nombre', 'C:\\xampp\\htdocs\\DWES\\ci_prubea_bd\\app\\Views\\templates\\header.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\DWES\\ci_prubea_bd\\app\\Views\\templates\\header.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('templates/header', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(9): view('templates/header')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->registro()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

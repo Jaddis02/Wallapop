@@ -1,0 +1,180 @@
+CRITICAL - 2024-01-24 09:31:51 --> Invalid file: "registro_usuario.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registro_usuario.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('registro_usuario', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(9): view('registro_usuario')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->registro()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-24 09:32:22 --> Invalid file: "registro_usuario.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registro_usuario.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('registro_usuario', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(9): view('registro_usuario')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->registro()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-24 09:32:42 --> Invalid file: "registro_usuario.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registro_usuario.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('registro_usuario', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(9): view('registro_usuario')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->registro()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-24 09:32:44 --> Invalid file: "registro_usuario.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registro_usuario.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('registro_usuario', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(9): view('registro_usuario')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->registro()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-24 09:32:50 --> Invalid file: "registro_usuario.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registro_usuario.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('registro_usuario', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(9): view('registro_usuario')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->registro()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-24 09:52:49 --> Invalid file: "crear_articulos.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('crear_articulos.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('crear_articulos.php', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(21): view('crear_articulos.php')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->articulos()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-24 09:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-24 09:53:14 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Articulos.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Articulos->guardar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Articulos))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-24 09:53:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-24 09:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-24 09:59:18 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Articulos.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Articulos->guardar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Articulos))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-24 09:59:28 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Articulos.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Articulos->guardar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Articulos))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-24 09:59:30 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Articulos.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Articulos->guardar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Articulos))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-24 10:01:00 --> Invalid file: "lista_Articulos.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('lista_Articulos.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('lista_Articulos.php', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(16): view('lista_Articulos.php')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->catalogo()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-24 10:01:22 --> Invalid file: "lista_Articulos.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('lista_Articulos.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('lista_Articulos.php', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(16): view('lista_Articulos.php')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->catalogo()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-24 10:01:22 --> Invalid file: "lista_Articulos.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('lista_Articulos.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('lista_Articulos.php', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(16): view('lista_Articulos.php')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->catalogo()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-24 10:01:23 --> Invalid file: "lista_Articulos.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('lista_Articulos.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('lista_Articulos.php', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(16): view('lista_Articulos.php')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->catalogo()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-24 10:01:23 --> Invalid file: "lista_Articulos.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('lista_Articulos.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('lista_Articulos.php', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(16): view('lista_Articulos.php')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->catalogo()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-24 10:01:46 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH\Views\listaArticulos.php on line 15.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('listaArticulos.php', [], true)
+ 4 APPPATH\Controllers\Usuarios.php(16): view('listaArticulos.php')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->catalogo()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-24 10:02:03 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH\Views\listaArticulos.php on line 13.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('listaArticulos.php', [], true)
+ 4 APPPATH\Controllers\Usuarios.php(16): view('listaArticulos.php')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->catalogo()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-24 10:06:06 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH\Views\listaArticulos.php on line 13.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('listaArticulos.php', [], true)
+ 4 APPPATH\Controllers\Usuarios.php(16): view('listaArticulos.php')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Usuarios->catalogo()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-24 10:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-24 10:12:35 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Articulos.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Articulos->guardar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Articulos))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-24 10:12:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-24 10:55:41 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Articulos.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Articulos->guardar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Articulos))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-24 10:55:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-24 12:28:28 --> Invalid file: "pruebaAjax.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pruebaAjax.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pruebaAjax', [], true)
+ 3 APPPATH\Controllers\Articulos.php(87): view('pruebaAjax')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Articulos->prueba()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Articulos))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
